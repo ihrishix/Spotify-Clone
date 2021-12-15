@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81963939127",
+    "project_id": "spotify-clone-hrishi",
+    "storage_bucket": "spotify-clone-hrishi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81963939127:android:8cf0131ee3fd624d8496b2",
+        "android_client_info": {
+          "package_name": "com.hrishi.spotifyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81963939127-duvcph3qrj625k3gvv6g1a84vom2c63k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsJeoDHRFnh2mZXNT1j_zbbytN-YNwP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81963939127-duvcph3qrj625k3gvv6g1a84vom2c63k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
